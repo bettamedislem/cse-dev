@@ -11,7 +11,7 @@ TODO
 
 $(document).ready(function(){
 
-	// résultats limitée à 2	
+	// résultats limitée à 3	
 	var query = "SELECT * FROM feed WHERE url='http://feeds.feedburner.com/cse-club' LIMIT 3";
 	
 	
