@@ -37,7 +37,7 @@ $(document).ready(function(){
 				// Looping and generating the markup of the articles:
 				
 				htmlString += '<div class="article">\
-								<img src="http://cse-club.org/'+id+'.jpg" />\
+								<img src="./images/icon.png" />\
 								<h2>'+art.title+'</h2>\
 								<p>'+art.description+'</p>\
 								<a href="'+art.link+'" target="_blank">Read more</a>\
